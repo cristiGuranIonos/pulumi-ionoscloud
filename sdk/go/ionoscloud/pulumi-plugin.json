@@ -1,0 +1,5 @@
+{
+  "resource": true,
+  "name": "ionoscloud",
+  "server": "github.com/cristiGuranIonos/pulumi-ionoscloud"
+}
